@@ -1,0 +1,39 @@
+[
+  {
+    "url": "https://example.cypress.io",
+    "performanceTiming": {
+      "navigationStart": 1716624036376,
+      "loadEventEnd": 1716624037114
+    },
+    "loadTime": 738,
+    "testDuration": 908
+  },
+  {
+    "url": "https://reqres.in/api/users",
+    "performanceTiming": {},
+    "testDuration": 7712
+  },
+  {
+    "url": "https://example.cypress.io",
+    "performanceTiming": {
+      "navigationStart": 1716624136383,
+      "loadEventEnd": 1716624136807
+    },
+    "loadTime": 424,
+    "testDuration": 630
+  },
+  {
+    "url": "https://reqres.in/",
+    "performanceTiming": {
+      "navigationStart": 1716624159490,
+      "loadEventEnd": 1716624163937
+    },
+    "loadTime": 4447,
+    "testDuration": 5623
+  },
+  {
+    "url": "https://reqres.in/api/users",
+    "performanceTiming": {},
+    "testDuration": 6571
+  }
+]

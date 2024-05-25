@@ -1,0 +1,15 @@
+{
+  "name": "cypress-perf-insights",
+  "version": "1.0.0",
+  "description": "A Cypress Plugin provides deep insight into application performance",
+  "main": "cypress.config.js",
+  "scripts": {
+    "cy:open": "cypress open"
+  },
+  "keywords": ["cypress", "performance", "plugin", "profiling", "load time"],
+  "author": "Faris Kurnia(Niar)",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^13.10.0"
+  }
+}
